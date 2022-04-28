@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Tandoori Chicken",
+        "no of plates": 10
+    },
+    {
+        "id": 2,
+        "name": "Vegan Burger",
+        "no of plates": 40
+    },
+    {
+        "id": 3,
+        "name": "Truffle Cake",
+        "no of plates": 20
+    }
+]
